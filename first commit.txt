@@ -1,0 +1,6 @@
+git init				// inicializo el git
+git add .				// hago el add para todos los archivos (.)
+git commit -m "first commit"		// le hago el commit, le pongo un comentario 
+git branch -M main			// RENOMBRO (-M) la rama actual a "main" (osea de master->main)
+git remote add origin https://github.com/AugustoCabrera/Prueba_de_github.git //vinculo el local a el url
+git push -u origin main			//subo los cambios a una nueva rama (-u origin) que se llama main
