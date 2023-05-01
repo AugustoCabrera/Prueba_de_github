@@ -1,0 +1,10 @@
+En este commit quiero crear una nueva rama llamada RamAux
+
+Pasos:
+
+cuando hago una rama nueva se copia lo que tengo en main y hago 
+la nueva rama y sigo avanzando por ramaux sin modificar a main 
+
+1) hago git add y commit
+2) git branch RamAux (creo la rama pero localmente)
+3) git push -u origin RamAux (creo la rama pero github)
